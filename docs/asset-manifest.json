@@ -1,16 +1,16 @@
 {
-  "main.css": "/build_biosodafrontend/static/css/main.19427afd.chunk.css",
-  "main.js": "/build_biosodafrontend/static/js/main.34dcb94e.chunk.js",
-  "main.js.map": "/build_biosodafrontend/static/js/main.34dcb94e.chunk.js.map",
+  "main.css": "/build_biosodafrontend/static/css/main.8af62eae.chunk.css",
+  "main.js": "/build_biosodafrontend/static/js/main.63166e30.chunk.js",
+  "main.js.map": "/build_biosodafrontend/static/js/main.63166e30.chunk.js.map",
   "runtime~main.js": "/build_biosodafrontend/static/js/runtime~main.c56559fd.js",
   "runtime~main.js.map": "/build_biosodafrontend/static/js/runtime~main.c56559fd.js.map",
-  "static/css/2.514e7bce.chunk.css": "/build_biosodafrontend/static/css/2.514e7bce.chunk.css",
+  "static/css/2.e74af73b.chunk.css": "/build_biosodafrontend/static/css/2.e74af73b.chunk.css",
   "static/js/2.a31d7b76.chunk.js": "/build_biosodafrontend/static/js/2.a31d7b76.chunk.js",
   "static/js/2.a31d7b76.chunk.js.map": "/build_biosodafrontend/static/js/2.a31d7b76.chunk.js.map",
   "index.html": "/build_biosodafrontend/index.html",
-  "precache-manifest.e16faf72ed402ae5b2dd59b575e8462f.js": "/build_biosodafrontend/precache-manifest.e16faf72ed402ae5b2dd59b575e8462f.js",
+  "precache-manifest.f8f992b5d9a7684eb9c26f479013d561.js": "/build_biosodafrontend/precache-manifest.f8f992b5d9a7684eb9c26f479013d561.js",
   "service-worker.js": "/build_biosodafrontend/service-worker.js",
-  "static/css/2.514e7bce.chunk.css.map": "/build_biosodafrontend/static/css/2.514e7bce.chunk.css.map",
-  "static/css/main.19427afd.chunk.css.map": "/build_biosodafrontend/static/css/main.19427afd.chunk.css.map",
+  "static/css/2.e74af73b.chunk.css.map": "/build_biosodafrontend/static/css/2.e74af73b.chunk.css.map",
+  "static/css/main.8af62eae.chunk.css.map": "/build_biosodafrontend/static/css/main.8af62eae.chunk.css.map",
   "static/media/appstyles.css": "/build_biosodafrontend/static/media/chevron-right.a0de108b.svg"
 }

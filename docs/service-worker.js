@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/build_biosodafrontend/precache-manifest.8098aa3745c712576518d4a8bd44c475.js"
+  "/build_biosodafrontend/precache-manifest.cd232c51d5b2a3265893f2c86e6810b0.js"
 );
 
 workbox.clientsClaim();
